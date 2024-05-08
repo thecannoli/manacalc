@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mana_farms_calculator
 
 Calculator For ManaFarms.io
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# manacalc
+This is a calculator for Mana Farms to help users calculate their savings
+>>>>>>> 9e051123b55f71159599055db667992e498d0b92
